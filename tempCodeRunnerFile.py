@@ -1,0 +1,1 @@
+py -3.13 "d:\Trí tuệ nhân tạo\Máy hút bụi\vacuum_cleaner.py"
