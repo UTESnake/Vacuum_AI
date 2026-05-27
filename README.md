@@ -137,9 +137,15 @@ Nhấn một trong 8 nút thuật toán ở panel bên trái. Nút đang chọn 
 
 ---
 
+## Giao diện
+
+<img width="874" height="926" alt="image" src="https://github.com/user-attachments/assets/3c3f727c-9eb7-4a3f-ae53-242c49175bb9" />
+
 ## Tác giả
 
 Bài tập môn **Trí tuệ Nhân tạo**
 
 - **[Huỳnh Hồng Thủy]** — [https://github.com/UTESnake](#)
+
+
 
